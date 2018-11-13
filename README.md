@@ -8,8 +8,6 @@ This repo contains a script and notebook to help you with getting keyword sugges
 
 3. cd into this repo on your local machine and run this command: `conda env create -f environment.yml`
 
-You now j
-
 ## Usage
 For an interactive version of the code, run this command: `jupyter notebook suggest_keywords.ipynb`.
 
